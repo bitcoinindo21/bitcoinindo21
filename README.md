@@ -12,9 +12,9 @@ Our initiative aims to use Bitcoin as a tool to support **human rights** and pro
 
 ## 🏠 Bitcoin House Bali
 Bitcoin House Bali is a key part of our community, offering:
-- [My First Bitcoin](https://github.com/MyFirstBitcoin) 10 week hands-on programs.
+- [My First Bitcoin](https://github.com/MyFirstBitcoin) 10 week hands-on program.
 - [Dev Program](https://bitcoinindonesia.xyz/dev)
-- Monthly [BitDevs](https://x.com/keypleb/status/1843936938463789538) meetup
+- Monthly [BitDevs](https://x.com/keypleb/status/1843936938463789538) meetups.
 - A sandboxed demo **circular economy** where Bitcoin is used for goods and services within the legal framework to comply with regulations.
 - A co-working space and a cafe for like-minded Bitcoiners.
 
@@ -23,6 +23,7 @@ Bitcoin House Bali is a key part of our community, offering:
 - **X**: [@bitcoinindo21](https://twitter.com/bitcoinindo21)
 - **Instagram**: [@bitcoinindo21](https://www.instagram.com/bitcoinindo21)
 - **Telegram**: [Join our Telegram Group](https://t.me/+OIIRyKQmvJY0MWFk)
+-  **Nostr**: npub1fpqlfgejlvnv5swanf0398y6k9vvheqs9g4zmjlthrga7ytn53dq3pqwcz
 
 Semangat!
 <!--
