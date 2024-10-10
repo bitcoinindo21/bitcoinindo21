@@ -1,27 +1,25 @@
-@@ -0,0 +1,16 @@
-## Hi there 👋
 # Bitcoin Indonesia 🌍
 
 We are on a mission to educate 100 million Indonesian people about Bitcoin by 2030. Our initiative aims to use Bitcoin as a tool to support **human rights** and promote **financial sovereignty** across Indonesia.
 
-## 🌟 What We Offer
-- **Free Bitcoin Education**: Courses, workshops, and resources for beginners and experts.
+## 🌟 What We Do
+- **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners and bitcoin maxis.
 - **Bitcoin House Bali**: A community hub for education, co-working, and meetups.
-- **Monthly Meetups**: Connect with Bitcoiners in Jakarta, Bali, and other cities.
-- **Workshops & Events**: Learn hands-on from experts at Bitcoin House Bali.
-- **School & University Programs**: Presentations and workshops tailored to youth education.
+- **Monthly Meetups**: Connect with Bitcoiners in Bali and 21 other cities from Aceh to Sumba.
+- **Workshops & Events**: Come to the hands-on workshops at the Bitcoin House Bali.
+- **School & University Programs**: Presentations and workshops desigend for young sudents of Bitcoin.
 
 ## 🏠 Bitcoin House Bali
 Bitcoin House Bali is a key part of our community, offering:
-- Educational programs on Bitcoin.
-- A **circular economy** where Bitcoin is used for goods and services.
-- A co-working space for like-minded Bitcoin enthusiasts.
+- My First Bitcoin programs.
+- A **circular economy** where Bitcoin is used for goods and services within the legal framework to comply with regulations.
+- A co-working space and a cafe for like-minded Bitcoiners.
 
-## 🌐 Join the Community
+## 🌐 Join the Bitcoin-only Community
 - **Website**: [Bitcoin Indonesia](http://www.bitcoinindonesia.xyz)
-- **Twitter**: [@bitcoinindo21](https://twitter.com/bitcoinindo21)
+- **X**: [@bitcoinindo21](https://twitter.com/bitcoinindo21)
 - **Instagram**: [@bitcoinindo21](https://www.instagram.com/bitcoinindo21)
-- **Telegram**: [Join our Telegram Group](https://t.me)
+- **Telegram**: [Join our Telegram Group]([https://t.me](https://t.me/+OIIRyKQmvJY0MWFk))
 
 Become a part of the Bitcoin revolution in Indonesia!
 
