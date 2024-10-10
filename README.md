@@ -20,7 +20,7 @@ Bitcoin House Bali is a key part of our community, offering:
 - **Website**: [Bitcoin Indonesia](http://www.bitcoinindonesia.xyz)
 - **X**: [@bitcoinindo21](https://twitter.com/bitcoinindo21)
 - **Instagram**: [@bitcoinindo21](https://www.instagram.com/bitcoinindo21)
-- **Telegram**: [Join our Telegram Group](https://t.me](https://t.me/+OIIRyKQmvJY0MWFk)
+- **Telegram**: [Join our Telegram Group](https://t.me/+OIIRyKQmvJY0MWFk)
 
 Join us!
 
