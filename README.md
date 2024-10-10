@@ -2,7 +2,7 @@
 
 Our initiative aims to use Bitcoin as a tool to support **human rights** and promote **financial sovereignty** across Indonesia.
 
-## 🌟 What We Do
+## What We Do
 - **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners and bitcoin maxis.
 - **Bitcoin House Bali**: A community hub for education, co-working, and meetups.
 - **Monthly Meetups**: Connect with Bitcoiners in Bali and 21 other cities from Aceh to Sumba.
@@ -16,7 +16,7 @@ Bitcoin House Bali is a key part of our community, offering:
 - A sandboxed demo **circular economy** where Bitcoin is used for goods and services within the legal framework to comply with regulations.
 - A co-working space and a cafe for like-minded Bitcoiners.
 
-## 🌐 Join the Bitcoin-only Community
+## Join the Bitcoin-only Community
 - **Website**: [Bitcoin Indonesia](http://www.bitcoinindonesia.xyz)
 - **X**: [@bitcoinindo21](https://twitter.com/bitcoinindo21)
 - **Instagram**: [@bitcoinindo21](https://www.instagram.com/bitcoinindo21)
