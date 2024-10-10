@@ -1,14 +1,14 @@
-# Bitcoin Indonesia 🌍
+# Bitcoin Indonesia and Bitcoin House Bali 🌍
 
 Our initiative aims to use Bitcoin as a tool to support **human rights** and promote **financial sovereignty** across Indonesia.
 
 ## What We Do
-- **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners and bitcoin maxis.
-- **Bitcoin House Bali**: A community hub for education, co-working, and meetups.
-- **Monthly Meetups**: Connect with Bitcoiners in Bali and 21 other cities from Aceh to Sumba.
-- **Workshops & Events**: Come to the hands-on workshops at the Bitcoin House Bali.
+- **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners as well as bitcoin maxis.
+- **Bitcoin House Bali**: A community hub for education, technical BitDevs workshops, and meetups.
+- **Monthly Meetups**: Connect with Bitcoiners in Bali and 21 other cities such as Bandung, Surabaya, Medan, Natuna Islands, Sumba, etc.
+- **Workshops & Events**: Come to the hands-on workshops at the Bitcoin House Bali as well as our meetups across Indonesia.
 - **School & University Programs**: Presentations and workshops desigend for young sudents of Bitcoin.
-- **Developer Program**: Join our Socratic seminars to study Mastering Bitcoin and Learn Bitcoin from the Command Line curriculum.
+- **Developer Program**: Join our Socratic seminars where we study "Mastering Bitcoin" and [Learn Bitcoin from the Command Line](https://github.com/Bitshala/LBTCL)
 
 ## 🏠 Bitcoin House Bali
 Bitcoin House Bali is a key part of our community, offering:
