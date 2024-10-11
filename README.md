@@ -25,7 +25,6 @@ Bitcoin House Bali is a key part of our community, offering:
 - **Telegram**: [Join our Telegram Group](https://t.me/+OIIRyKQmvJY0MWFk)
 -  **Nostr**: npub1fpqlfgejlvnv5swanf0398y6k9vvheqs9g4zmjlthrga7ytn53dq3pqwcz
 
-Semangat!
 <!--
 **bitcoinindo21/bitcoinindo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
