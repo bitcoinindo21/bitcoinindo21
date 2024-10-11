@@ -19,14 +19,14 @@ Bitcoin House Bali is a key part of our community, offering:
 - A co-working space and a cafe for Bitcoiners.
 
  ## Impact and Highlights
-Orange pilled the president Joko Widodo by giving him a tipcard at [UNU Yogyakarta](https://www.cnnindonesia.com/nasional/20240131115224-32-1056622/jokowi-kaget-mahasiswa-unu-yogyakarta-sudah-belajar-bitcoin-dan-ai)
-Two weekly My First Bitcoin cohorts - in [Bali](https://x.com/btchousebali/status/1833878518712975638) and [Bandung](https://x.com/bitcoinindo21/status/1819685831361417574)
-[Visiting the school](https://x.com/bitcoinindo21/status/1834465621729562694)
-Monthly [BitDevs building SeedSigners](https://x.com/keypleb/status/1839920811098157231)
-Collaboration with Stikom Univeristy Bali, PNB to teach My First Bitcoin there
-26 monthly bitcoin meetups - [here](https://x.com/bitcoinindo21/status/1826463191771054253) is our largest meetup
-Dev Program [launch](https://x.com/bitcoinindo21/status/1827219657654464620)
-Bitcoin House Bali [launch party](https://x.com/BitcoinNewsCom/status/1796956207439122636)
+- Orange pilled the president Joko Widodo by giving him a tipcard at [UNU Yogyakarta](https://www.cnnindonesia.com/nasional/20240131115224-32-1056622/jokowi-kaget-mahasiswa-unu-yogyakarta-sudah-belajar-bitcoin-dan-ai)
+- Two weekly My First Bitcoin cohorts - in [Bali](https://x.com/btchousebali/status/1833878518712975638) and [Bandung](https://x.com/bitcoinindo21/status/1819685831361417574)
+- [Visiting the school](https://x.com/bitcoinindo21/status/1834465621729562694)
+- Monthly [BitDevs building SeedSigners](https://x.com/keypleb/status/1839920811098157231)
+- Collaboration with Stikom Univeristy Bali, PNB to teach My First Bitcoin there
+- 26 monthly bitcoin meetups - [here](https://x.com/bitcoinindo21/status/1826463191771054253) is our largest meetup
+- Dev Program [launch](https://x.com/bitcoinindo21/status/1827219657654464620)
+- Bitcoin House Bali [launch party](https://x.com/BitcoinNewsCom/status/1796956207439122636)
 
 ## Join the Bitcoin-only Community
 - **Website**: [Bitcoin Indonesia](http://www.bitcoinindonesia.xyz)
