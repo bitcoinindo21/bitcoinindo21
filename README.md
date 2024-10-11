@@ -1,8 +1,8 @@
-# Bitcoin Indonesia and Bitcoin House Bali 🌍
+# 🇮🇩 Bitcoin Indonesia & 🌍 Bitcoin House Bali
 
 Our initiative aims to use Bitcoin as a tool to support **human rights** and promote **financial sovereignty** across Indonesia.
 
-## What We Do
+## 😇 What We Do
 - **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners as well as bitcoin maxis.
 - **Bitcoin House Bali**: A community hub for education, technical BitDevs workshops, and meetups.
 - **Monthly Meetups**: Connect with Bitcoiners in Bali and 21 other cities such as Bandung, Surabaya, Medan, Natuna Islands, etc.
@@ -18,7 +18,7 @@ Bitcoin House Bali is a key part of our community, offering:
 - A sandboxed demo **circular economy** where Bitcoin is used within the legal framework to comply with regulations.
 - A co-working space and a cafe for Bitcoiners.
 
- ## Impact and Highlights
+ ## ☀️ Impact and Highlights
 - Orange pilled the president Joko Widodo by giving him a tipcard at [UNU Yogyakarta](https://www.cnnindonesia.com/nasional/20240131115224-32-1056622/jokowi-kaget-mahasiswa-unu-yogyakarta-sudah-belajar-bitcoin-dan-ai)
 - Two weekly My First Bitcoin cohorts - in [Bali](https://x.com/btchousebali/status/1833878518712975638) and [Bandung](https://x.com/bitcoinindo21/status/1819685831361417574)
 - [Visiting the school](https://x.com/bitcoinindo21/status/1834465621729562694)
@@ -28,7 +28,7 @@ Bitcoin House Bali is a key part of our community, offering:
 - Dev Program [launch](https://x.com/bitcoinindo21/status/1827219657654464620)
 - Bitcoin House Bali [launch party](https://x.com/BitcoinNewsCom/status/1796956207439122636)
 
-## Join the Bitcoin-only Community
+## ☢️ Join the Bitcoin-only Community
 - **Website**: [Bitcoin Indonesia](http://www.bitcoinindonesia.xyz)
 - **X**: [@bitcoinindo21](https://twitter.com/bitcoinindo21)
 - **Instagram**: [@bitcoinindo21](https://www.instagram.com/bitcoinindo21)
