@@ -21,9 +21,9 @@ Bitcoin House Bali is a key part of our community, offering:
 - A co-working space and a cafe for Bitcoiners.
 
 
-<img src="https://github.com/bitcoinindo21/bitcoinindo21/blob/images/Daily%20Learning%20-%20Walk-Ins.png?raw=true" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
-<img src="https://github.com/bitcoinindo21/bitcoinindo21/blob/images/Bitcoin%20House%20Bali%20-%20Mockup%20(1).png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
-<img src="https://github.com/bitcoinindo21/bitcoinindo21/blob/images/New%20Lights.png?raw=true" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/bitcoinindo21/bitcoinindo21/blob/images/Daily%20Learning%20-%20Walk-Ins.png?raw=true" width="200" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/bitcoinindo21/bitcoinindo21/blob/images/Bitcoin%20House%20Bali%20-%20Mockup%20(1).png" width="200" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/bitcoinindo21/bitcoinindo21/blob/images/New%20Lights.png?raw=true" width="200" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 
 
