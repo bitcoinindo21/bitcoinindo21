@@ -3,6 +3,7 @@
 Our initiative aims to use Bitcoin as a tool to support **human rights** and promote **financial sovereignty** across Indonesia.
 
 Our top 5 resources:
+
 [21 Learnings - checklist for your Bitcoin project](https://github.com/bitcoinindo21/checklist-for-bitcoin-projects)
 
 [Bitcoin for Indonesia Book](https://github.com/bitcoinindo21/bitcoin-for-indonesia-book)
