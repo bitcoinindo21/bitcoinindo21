@@ -2,6 +2,13 @@
 
 Our initiative aims to use Bitcoin as a tool to support **human rights** and promote **financial sovereignty** across Indonesia.
 
+Our top 5 resources:
+[21 Learnings - checklist for your Bitcoin project](https://github.com/bitcoinindo21/checklist-for-bitcoin-projects)
+[Bitcoin for Indonesia Book](https://github.com/bitcoinindo21/bitcoin-for-indonesia-book)
+[Inflation Monster Game for Kids](https://github.com/bitcoinindo21/inflation-monster-game)
+[Meetup Guide](https://github.com/bitcoinindo21/bitcoin-meetup-guide)
+[My First Bitcoin in Bahasa Indonesia](https://github.com/bitcoinindo21/my-first-bitcoin-diploma-in-bahasa-indonesia)
+
 ## 😇 What We Do
 - **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners as well as bitcoin maxis.
 - **Bitcoin House Bali**: A community hub for education, technical BitDevs workshops, and meetups.
