@@ -4,9 +4,13 @@ Our initiative aims to use Bitcoin as a tool to support **human rights** and pro
 
 Our top 5 resources:
 [21 Learnings - checklist for your Bitcoin project](https://github.com/bitcoinindo21/checklist-for-bitcoin-projects)
+
 [Bitcoin for Indonesia Book](https://github.com/bitcoinindo21/bitcoin-for-indonesia-book)
+
 [Inflation Monster Game for Kids](https://github.com/bitcoinindo21/inflation-monster-game)
+
 [Meetup Guide](https://github.com/bitcoinindo21/bitcoin-meetup-guide)
+
 [My First Bitcoin in Bahasa Indonesia](https://github.com/bitcoinindo21/my-first-bitcoin-diploma-in-bahasa-indonesia)
 
 ## 😇 What We Do
