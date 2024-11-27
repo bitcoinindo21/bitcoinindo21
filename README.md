@@ -4,17 +4,17 @@ Our initiative aims to use Bitcoin as a tool to support **human rights** and pro
 
 **Our top 5 resources:**
 
-[21 Learnings - Checklist for your Bitcoin project](https://github.com/bitcoinindo21/checklist-for-bitcoin-projects)
+👩‍🎓[21 Learnings - Checklist for your Bitcoin project](https://github.com/bitcoinindo21/checklist-for-bitcoin-projects)
 
-[Bitcoin for Indonesia Book](https://github.com/bitcoinindo21/bitcoin-for-indonesia-book)
+📙[Bitcoin for Indonesia Book](https://github.com/bitcoinindo21/bitcoin-for-indonesia-book)
 
-[Inflation Monster Game for Kids](https://github.com/bitcoinindo21/inflation-monster-game)
+👹[Inflation Monster Game for Kids](https://github.com/bitcoinindo21/inflation-monster-game)
 
-[Meetup Guide](https://github.com/bitcoinindo21/bitcoin-meetup-guide)
+🤝[Meetup Guide](https://github.com/bitcoinindo21/bitcoin-meetup-guide)
 
-[My First Bitcoin in Bahasa Indonesia](https://github.com/bitcoinindo21/my-first-bitcoin-diploma-in-bahasa-indonesia)
+🇮🇩[My First Bitcoin in Bahasa Indonesia](https://github.com/bitcoinindo21/my-first-bitcoin-diploma-in-bahasa-indonesia)
 
-Find all repositories [here](https://github.com/bitcoinindo21?tab=repositories)
+Find all repositories [**here**](https://github.com/bitcoinindo21?tab=repositories)
 
 ## 😇 What We Do
 - **Free Bitcoin Education**: My First Bitcoin courses, BitDevs workshops, and resources for beginners as well as bitcoin maxis.
